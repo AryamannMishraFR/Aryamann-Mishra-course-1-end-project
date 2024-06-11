@@ -17,4 +17,5 @@ Prerequisites:
   2. The root directory for the application is specified as root_directory. Ensure this directory is accessible.
 
 Compile: javac LockedMeApp.java
+
 Run: java LockedMeApp
